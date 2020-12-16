@@ -1,0 +1,81 @@
+/* -- vD WORKS -- */
+/* -- vD-Freeway Insurance --*/
+#work ul.work #vD_fwy li.workCarouselItem,
+ {
+  background-image: url(../work/2011/fwy/1.jpg);
+}
+#work ul.work #vD_fwy li.workCarouselItem.item-2,
+#about ul.work #vD_fwy li.workCarouselItem.item-2 {
+	background: url(../work/2011/fwy/3.jpg) -30px;
+}
+
+/* -- vD-Freeway Insurance Web --*/
+#work ul.work #vD_fwyWeb li.workCarouselItem {
+  background-image: url(../work/2011/fwyWeb/1.jpg);
+}
+#work ul.work #vD_fwyWeb li.workCarouselItem.item-2 {
+	background: url(../work/2011/fwyWeb/2.jpg) -30px;
+}
+#work ul.work #vD_fwyWeb li.workCarouselItem.item-3 {
+	background: url(../work/2011/fwyWeb/3.jpg) -30px;	
+}
+#work ul.work #vD_fwyWeb li.workCarouselItem.item-4 {
+	background: url(../work/2011/fwyWeb/4.jpg) -30px;
+}
+
+/* -- vD-LBR --*/
+#work ul.work #vD_lbr li.workCarouselItem {
+  background-image: url(../work/2010/lbr/1.jpg);
+}
+#work ul.work #vD_lbr li.workCarouselItem.item-2 {
+	background: url(../work/2010/lbr/2.jpg) -30px;
+}
+#work ul.work #vD_lbr li.workCarouselItem.item-3 {
+	background: url(../work/2010/lbr/3.jpg) -30px;
+}
+
+/* -- vD-LBR --*/
+#how ul.work #vD_lbr li.workCarouselItem {
+  background-image: url(../work/2010/lbr/1.jpg);
+}
+#how ul.work #vD_lbr li.workCarouselItem.item-2 {
+	background: url(../work/2010/lbr/2.jpg) -30px;
+}
+#how ul.work #vD_lbr li.workCarouselItem.item-3 {
+	background: url(../work/2010/lbr/3.jpg) -30px;
+}
+
+/* -- vD-NOVA --*/
+#work ul.work #nova li.workCarouselItem {
+  background-image: url(../work/2007/NOVA/1.jpg);
+}
+#work ul.work #nova li.workCarouselItem.item-2 {
+	background: url(../work/2007/NOVA/2.jpg) -30px;
+}
+#work ul.work #nova li.workCarouselItem.item-3 {
+	background: url(../work/2007/NOVA/3.jpg) -30px;
+}
+
+/* -- vD-IDEAL LIVING --*/
+#work ul.work #idealliving li.workCarouselItem {
+  background-image: url(../work/kiosei/1.jpg);
+}
+#work ul.work #idealliving li.workCarouselItem.item-2 {
+	background: url(../work/kiosei/2.jpg) -30px;
+}
+#work ul.work #idealliving li.workCarouselItem.item-3 {
+	background: url(../work/kiosei/3.jpg) -30px;
+}
+
+/* -- vD-LG --*/
+#work ul.work #lg li.workCarouselItem {
+  background-image: url(../work/lg/1.jpg);
+}
+#work ul.work #lg li.workCarouselItem.item-2 {
+	background: url(../work/lg/2.jpg) -30px;
+}
+#work ul.work #lg li.workCarouselItem.item-3 {
+	background: url(../work/lg/3.jpg) -30px;
+}
+
+/* -- END - vD WORKS -- */

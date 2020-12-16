@@ -1,0 +1,117 @@
+/* -- vD-CSS -- */
+
+#myCanvas {
+    margin: 0 auto;
+/*    border: solid red;*/
+    width: 100%;
+    font-family: 'Georgia', serif;
+
+}
+
+#myCanvasContainer {
+/*    margin-top: 10%;*/
+/*    border: solid blue;*/
+    text-align: center;
+
+   
+}
+
+
+/*PORTOLIO SECTION*/
+
+#portfolio {
+  padding-top: 20px;
+  background-color: rgba(255, 255, 255, 0.5);
+
+
+}
+
+#portfolio .header {
+padding-left: 40px;
+padding-bottom: 20px;   
+
+}
+
+
+.flex-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+.flex-row > [class*='col-'] {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.flex-row .thumbnail,
+.flex-row .caption {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+  height: auto;
+  position: relative;
+
+}
+.flex-row .thumbnail:hover { border: solid gray 1px; }
+.flex-text {
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+}
+.flex-row img {
+  min-width: 0;
+  width: 100%;
+}
+
+.flex-row .thumbnail, 
+.flex-row .caption { background-color: white; }
+
+/* TAGS */
+
+#portfolio ul.tags li {
+  display: inline-block;
+  background-color: #161616;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 0.6em;
+  margin: 0.2em;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  line-height: 1em;
+  padding: 0.5em 0.5em 0.5em;
+  width: auto;
+ 
+}
+
+#portfolio a h3 { text-decoration: none; color: #333 !important; font-size: 1.5em; }
+#portfolio a:hover { text-decoration: none; color: #337ab7; }
+#portfolio .link-new-tab { 
+  text-align: right; 
+  height: 40px;
+  background-image: url('/img/link-new-tab.png'); 
+  background-size: 40px 40px; 
+  background-repeat: no-repeat;
+  background-position: right;
+  padding: 10px 44px;
+
+
+   }
+
+

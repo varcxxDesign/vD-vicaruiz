@@ -1,0 +1,52 @@
+/* varcxxDesign 
+/*
+ * SMACSS + SCSS starter v2.1
+ * Inspired by SMACSS http://smacss.com
+ * Author: @jonathanpath
+ * Date: 4 August 2015
+ *
+ * https://github.com/jonathanpath/SASS-SMACSS
+ * See file structure in http://jonathanpath.com/sass+smacss/scss/style.scss
+ *
+ * Coding rules : https://github.com/necolas/idiomatic-css
+ *
+ */
+/* Site settings */
+/* Vendor */
+/* Override */
+/* Base */
+/*--vD-Base Override--*/
+.canvascontainer {
+  position: relative !important; }
+
+.footer {
+  margin-top: -600px !important; }
+
+.column-2 h3 {
+  padding-left: 40px; }
+
+/* Layouts */
+/* -- TAG CANVAS -- */
+#myCanvasContainer {
+  /*    margin-top: 10%;*/
+  /*    border: solid blue;*/
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 90vh;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+#myCanvas {
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Georgia', serif;
+  margin-top: -200px; }
+  @media (max-width: 640px) {
+    #myCanvas {
+      width: 300px;
+      height: 600px; } }

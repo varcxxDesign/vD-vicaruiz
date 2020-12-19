@@ -334,7 +334,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <input type="Submit" value="SEND" data-wait="Please wait..." class="submit-btn w-button">
         </form>
         <div class="w-form-done" style="margin-top: 50px; margin-bottom: 10px;">
-          <div>Thank you! Your submission has been received!</div>
+          <div>Thank you! Your message is on it's way</div>
         </div>
         <div class="w-form-verify">
           <div>Please verify that you are human first!</div>

@@ -74,6 +74,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
   <div data-collapse="medium" data-animation="default" data-duration="400" data-w-id="bbad45a3-4fbe-92aa-64e2-e20955e7b3a7" class="navbar w-nav">
+    <div class="brandLogo">vicaruiz</div>
     <nav role="navigation" class="nav-menu w-nav-menu"><a href="#home" class="nav-link w-nav-link">Home</a><a href="#about" class="nav-link w-nav-link">About</a><a href="#works" class="nav-link w-nav-link">Work</a><a href="#case-studies" class="nav-link w-nav-link">Case Studies</a><a href="#portfolio" class="nav-link w-nav-link">Portfolio</a><a href="#contact" class="nav-link w-nav-link">ConNEct</a></nav>
     <div class="menu-button w-nav-button">
       <div class="icon w-icon-nav-menu"></div>
@@ -150,8 +151,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="about" class="about">
       <h2 class="section-heading">ABOUT</h2>
       <!-- <blockquote class="block-quote">&quot;I am a User Experience consultant practicing Design Thinking, Value Proposition Design, Product Management and Software Development.&quot;<br></blockquote> -->
-        <p>Vic is an experienced User Experience Specialist with a demonstrated history of working in the internet industry, Skilled in UX Strategy, Design Thinking, Value Proposition Design, Flow Diagrams, Wireframing, Prototyping, and Front End Engineering.</p>
-        <p>A generalist within the user-centered design process, Vic delivers engaging user experiences through research, feedback, analysis, testing, and best practices.</p> 
+        <p>Vic is an experienced User Experience Specialist with a demonstrated history of working in the internet industry, Skilled in UX Strategy, Design Thinking, Value Proposition Design, Flow Diagrams, Wireframing, Prototyping, and Front End Engineering. A generalist within the user-centered design process, Vic delivers engaging user experiences through research, feedback, analysis, testing, and best practices.</p> 
 
     </div>
     <div id="works" class="works">
@@ -159,8 +159,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="row w-row">
         <div class="column-2 w-col w-col-4 w-col-stack">
           <div class="text-block">
-            <h3>In his own words</h3>
-            <blockquote><p>"I draw maps and diagrams to guide teams through systems and complex concepts into defining meaningful categories, information architectures, functional requirements, content structure, navigation, and interactions.</p> 
+            <h3>"In Essence..</h3>
+            <blockquote><p>I draw maps and diagrams to guide teams through systems and complex concepts into defining meaningful categories, information architectures, functional requirements, content structure, navigation, and interactions.</p> 
             <p>Bridging Design thinking with Development for digital products, I participate in the research, analysis, design, implementation, and testing phases."</p></blockquote>
           </div>
 

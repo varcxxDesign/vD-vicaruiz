@@ -108,7 +108,6 @@
   display: -ms-flexbox;
   display: flex;
   width: 70%;
-  min-height: 400px;
   margin-right: auto;
   margin-bottom: 103px;
   margin-left: auto;
@@ -722,6 +721,12 @@
   margin-right: 20px;
 }
 
+.brandLogo { float: left; color: #000000; text-align: left; display: inline-block; 
+    margin: 15px 20px auto;
+    font-size: 2em;
+
+ }
+
 @media (max-width: 991px) {
   .portfolio-thumbs {
     -webkit-box-pack: center;
@@ -782,6 +787,8 @@
   .navbar {
     background-color: #000;
   }
+
+  .brandLogo { color: #fff; }
   .icon {
     font-size: 32px;
   }

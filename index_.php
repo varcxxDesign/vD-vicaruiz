@@ -2,81 +2,41 @@
 <!--  This site was created in Webflow. http://www.webflow.com  -->
 <!--  Last Published: Wed Jan 20 2021 06:03:52 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="5b0c51bb15edacac6cbf97a6" data-wf-site="5b0c51bb15edac23aebf97a5">
+
+
 <head>
   <meta charset="utf-8">
-  <title>Vic A Ruiz - User Experience Specialist</title>
+  <title>vicaruiz.com</title>
+  
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
 
   <link href="css/normalize.css" rel="stylesheet" type="text/css">
   <link href="css/webflow.css" rel="stylesheet" type="text/css">
   <link href="css/vicaruiz-com.webflow.css" rel="stylesheet" type="text/css">
-  <link href="css/style.css" rel="stylesheet" type="text/css">
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
   <script type="text/javascript">WebFont.load({  google: {    families: ["Ubuntu:300,300italic,400,400italic,500,500italic,700,700italic","Vollkorn:400,400italic,700,700italic","Open Sans Condensed:300,300italic","Patua One:regular","Ubuntu Condensed:regular","Source Sans Pro:200,300,regular"]  }});</script>
   <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
   <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
 
-  <link href="images/varcxx-logo_32.jpg" rel="shortcut icon" type="image/x-icon">
-  <link href="images/varcxx-logo_256.jpg" rel="apple-touch-icon">
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9234063-12"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-9234063-12');
-</script>
-
-  <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WRSPQR5');</script>
-<!-- End Google Tag Manager -->
-
-<!-- TAG CANVAS -->        
-<script type="text/javascript" src="js/tagcanvas.min.js"></script>        
-<script type="text/javascript">                                    
-  window.onload = function() {
-    try {
-        // TagCanvas.activeCursor = 'pointer';
-        TagCanvas.textColour = '#ffffff';
-        TagCanvas.outlineColour = 'black';
-        // TagCanvas.dragControl = 'false';
-        TagCanvas.imageAlign = "center";
-        TagCanvas.outlineMethod = "colour";
-        TagCanvas.textFont = "Georgia";
-//        TagCanvas.lock = "y";
-        TagCanvas.wheelZoom = "true";
-        TagCanvas.zoomStep = ".05";
-//        TagCanvas.zoom = "1.5";
-        TagCanvas.zoomMax = "1.5";
-        TagCanvas.zoomMin = "1.0"
-
-      TagCanvas.Start('myCanvas');
-    } catch(e) {
-      // something went wrong, hide the canvas container
-      document.getElementById('myCanvasContainer').style.display = 'none';
-    }
-  };
- </script>
- <!-- END - TAG CANVAS --> 
+  <link href="images/favicon.jpg" rel="shortcut icon" type="image/x-icon">
+  <link href="images/webclip.jpg" rel="apple-touch-icon">
 
 </head>
+
+
 <body class="body">
-  <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRSPQR5"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-  <div data-collapse="medium" data-animation="default" data-duration="400" data-w-id="bbad45a3-4fbe-92aa-64e2-e20955e7b3a7" class="navbar w-nav">
+  <div data-collapse="medium" data-animation="default" data-duration="400" data-w-id="bbad45a3-4fbe-92aa-64e2-e20955e7b3a7" role="banner" class="navbar w-nav">
     <div class="brandlogo">vicaruiz</div>
-    <nav role="navigation" class="nav-menu w-nav-menu"><a href="#home" class="nav-link w-nav-link">Home</a><a href="#about" class="nav-link w-nav-link">About</a><a href="#works" class="nav-link w-nav-link">Work</a><a href="#case-studies" class="nav-link w-nav-link">Case Studies</a><a href="#portfolio" class="nav-link w-nav-link">Portfolio</a><a href="#contact" class="nav-link w-nav-link">ConNEct</a></nav>
+    <nav role="navigation" class="nav-menu w-nav-menu">
+      <a href="#home" class="nav-link w-nav-link">Home</a>
+      <a href="#about" class="nav-link w-nav-link">About</a>
+      <a href="#works" class="nav-link w-nav-link">Work</a>
+      <a href="#case-studies" class="nav-link w-nav-link">Case Studies</a>
+      <a href="#portfolio" class="nav-link w-nav-link">Portfolio</a>
+      <a href="#contact" class="nav-link w-nav-link">ConNEct</a>
+    </nav>
     <div class="menu-button w-nav-button">
       <div class="icon w-icon-nav-menu"></div>
     </div>
@@ -84,70 +44,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <a href="#about" class="enter-link w-inline-block"><img src="images/go.png" alt="UI-Scroll Down button" class="image-8"></a>
   <div class="cover-photo"></div>
   <div id="home" class="canvascontainer">
-     <!--TAG CANVAS-->
-   <div id="myCanvasContainer">
-    <canvas id="myCanvas" width="1200" height="900" class="mycanvas">
-      
-       <p>Anything in here will be replaced on browsers that support the canvas element</p>
-   
-      
-                            <ul>
-
-                        <li><a href="#about">Online Marketing</a></li>
-                        <li><a href="#about">Development</a></li>
-                        <li><a href="#about">Software Release Cycles</a></li>
-                        <li><a href="#about">Graphic Design</a> </li>
-
-                        <li><a href="#about">UX Lead</a></li>              
-                        <li><a href="#about">Web Dev</a></li>    
-                        <li><a href="#about">Design</a></li>
-                        <li><a href="#about">UX</a></li>
-
-                        <li><a href="#about">UxStrategy</a></li>
-                        <li><a href="#about">Research</a></li>
-
-
-                        <li><a href="#about">UxScope</a></li>
-                        <li><a href="#about">Business Goals</a></li>
-                        <li><a href="#about">User Needs</a></li> 
-
-                        <li><a href="#about">UxStructure</a></li>
-                        <li><a href="#about">IA</a></li>
-                        <li><a href="#about">Information Architecture</a></li>
-
-
-                        <li><a href="#about">UI Design</a></li>
-                        <li><a href="#about">User Interface</a></li>
-
-
-                        <li><a href="#about">UX</a></li> 
-                        <li><a href="#about">UxSurface</a></li>
-                        <li><a href="#about">Visual Design</a></li> 
-
-                     
-                        <li><a href="#about">Online Marketing</a></li>
-
-                        <li><a href="#about">Full Stack</a></li>
-                        <li><a href="#about">Open Source</a></li>
-
-
-                        <li><a href="#about">UX Toolkit</a></li>
-                        <li><a href="#about">Project Management</a></li>
-
-                        <li><a href="#about">UxSkeleton</a></li>
-
-
-
-                        <li><a href="#about">Frontend Development</a></li>
-
-                        <li><a href="#about">PHP Framework</a></li>
-                        <li><a href="#about">SASS</a></li>
-
-                      </ul>
-
-    </canvas>
-  </div>
-  <!--END - TAG CANVAS-->  
+    <div class="mycanvas"></div>
   </div>
   <div data-w-id="f44b0118-88b7-9ca9-cce2-b3a39459ab86" class="page">
     <div id="about" class="about">
@@ -161,7 +58,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="work-description">
             <h3 class="heading">&quot;In essense,</h3>
             <blockquote class="blockquote">I draw maps and diagrams to guide teams through systems and complex concepts into defining meaningful categories, information architectures, functional requirements, content structure, navigation, and interactions.<br>‍<br>Bridging Design thinking with Development for digital products, I participate in the research, analysis, design, implementation, and testing phases.&quot;</blockquote>
-            <p>Bridging Design thinking with Development for digital products, I participate in the research, analysis, design, implementation, and testing phases."</p></blockquote>
           </div>
         </div>
         <div class="column w-col w-col-8 w-col-stack">
@@ -196,7 +92,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="w-col w-col-4">
           <div class="feat"><img src="images/_thumb.jpg" sizes="(max-width: 479px) 87vw, (max-width: 767px) 92vw, 27vw" srcset="images/_thumb-p-500.jpeg 500w, images/_thumb.jpg 800w" alt="Simon G. Retail Responsive Lead Generating Website" class="image-6">
             <h3>SGJ-15-008</h3>
-            <h4>Clickable Prototype for Lead Generating Mobile Site</h4>
+            <h4>Clickable Prototype for Leat Generating Mobile Site</h4>
             <p class="paragraph-2">Made with Invision this prototype validated the new design and planned functionality after being tested with a closed user group. Later it also helped guide the implementation of the Product Showcase feature of a very successful Co-branded marketing campaign.</p>
             <ul role="list" class="skill-tags w-clearfix w-list-unstyled">
               <li class="skill">UX</li>
@@ -349,133 +245,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a href="https://instagram.com/varcxx" target="_blank" class="sm-link w-inline-block"><img src="images/instagram_white.png" sizes="(max-width: 479px) 100vw, (max-width: 767px) 17vw, 100px" srcset="images/instagram_white-p-500.png 500w, images/instagram_white.png 512w" alt="Instagram logo"></a>
       </div>
       <div class="form-block w-form">
-
-
-        <style type="text/css">
-          .w-form-verify {
-            padding: 20px;
-            text-align: center;
-            background-color: #dddddd;
-            display: none;
-            margin-top: 50px;
-            margin-bottom: 10px;
-          }
-          .g-recaptcha {
-            margin-bottom: 25px;
-          }
-        </style>
-
-        <form id="email-form-alex" name="email-form" data-name="Email Form" action="" method="post">
-          <label for="name">Name:</label>
-          <input type="text" class="w-input" maxlength="256" name="name" data-name="Name" placeholder="Enter your name" id="name">
-
-          <label for="email">Email Address:</label>
-          <input type="text" class="text-field w-input" maxlength="256" name="email" data-name="Email" placeholder="Enter your email" id="email" required="">
-          
-          <textarea id="Message" name="Message" placeholder="How might we design.." maxlength="5000" data-name="Message" class="textarea w-input"></textarea>
-
-          <center>
-            <div class="g-recaptcha" data-sitekey="6LexLQkaAAAAAB9urRypH8s76g9Vo_e3UQLCYKka"></div>
-          </center>
-
-          <input class="text-field w-input" type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
-          <input type="Submit" value="SEND" data-wait="Please wait..." class="submit-btn w-button">
-        </form>
-        <div class="w-form-done" style="margin-top: 50px; margin-bottom: 10px;">
-          <div>Thank you! Your message is on it's way</div>
+        <form id="email-form" name="email-form" data-name="Email Form"><label for="name">Name:</label><input type="text" class="w-input" maxlength="256" name="name" data-name="Name" placeholder="Enter your name" id="name"><label for="email">Email Address:</label><input type="text" class="text-field w-input" maxlength="256" name="email" data-name="Email" placeholder="Enter your email" id="email" required=""><textarea id="Message" name="Message" placeholder="How might we design.." maxlength="5000" data-name="Message" class="textarea w-input"></textarea><input type="submit" value="SEND" data-wait="Please wait..." class="submit-btn w-button"></form>
+        <div class="w-form-done">
+          <div>Thank you! Your submission has been received!</div>
         </div>
-        <div class="w-form-verify">
-          <div>Please verify that you are human first!</div>
-        </div>
-        <!-- <div class="w-form-fail">
+        <div class="w-form-fail">
           <div>Oops! Something went wrong while submitting the form.</div>
-        </div> -->
-      </div>
-
-    <div class="footerLogo">  
-    <img src="images/logo_2-white.png" class="image-4">
-     </div>
+        </div>
+      </div><img src="images/logo_2-white.png" alt="VARCXX logo" class="image-4">
     </div>
   </div>
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5b0c51bb15edac23aebf97a5" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script src="js/webflow.js" type="text/javascript"></script>
-
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
-<script>
-// Custom Script
-
-
-$(document).ready(function(){
-  
-  jQuery("#email-form-alex").submit(function(e) {
-    e.preventDefault(); 
-
-    var response = grecaptcha.getResponse();
-    // console.log(response);
-    if(response.length == 0) {
-        // recapptcha verification fail
-
-        $('.w-form-verify').css("display", "block");
-        setTimeout(function(){
-          $('.w-form-verify').fadeOut('slow');
-        }, 2000);
-
-        return false;
-    }else {
-      // recaptcha verification successful
-
-          jQuery(function($) {
-            
-            $.ajax({
-              method: "POST",
-              url: "phpMailer.php",
-              dataType: 'script',
-              cache: true,
-              data: { 
-                recaptcha: response,
-                name: document.getElementById("name").value, 
-                email: document.getElementById("email").value,
-                message: document.getElementById("Message").value
-              },
-              success: function(reply){
-
-                if (reply == 1) {
-
-                  grecaptcha.reset();
-
-                  $('.w-form-done').css("display", "block");
-
-                  document.getElementById("name").value = "";
-                  document.getElementById("email").value = "";
-                  document.getElementById("Message").value = "";
-
-                  setTimeout(function(){
-                    $('.w-form-done').fadeOut('slow');
-                  }, 2000);
-
-                }else {
-
-                  console.log(reply);
-
-                }
-
-                
-
-              }
-            });
-              
-          });
-
-
-    }// end else
-
-  });
-
-})
-
-</script>
-
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
 </body>
 </html>

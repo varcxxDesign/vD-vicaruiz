@@ -914,7 +914,7 @@
   color: #7c7b7b;
 }
 
-.brandlogo {
+h1.brandlogo {
   margin: 15px 20px auto;
   float: left;
   font-size: 2em;

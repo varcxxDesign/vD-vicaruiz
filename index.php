@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <!--  This site was created in Webflow. http://www.webflow.com  -->
 <!--  Last Published: Wed Jan 20 2021 06:03:52 GMT+0000 (Coordinated Universal Time)  -->
-<html data-wf-page="5b0c51bb15edacac6cbf97a6" data-wf-site="5b0c51bb15edac23aebf97a5">
+<html data-wf-page="5b0c51bb15edacac6cbf97a6" data-wf-site="5b0c51bb15edac23aebf97a5" lang="en">
+
 <head>
   <meta charset="utf-8">
   <title>Vic A Ruiz - User Experience Specialist</title>
@@ -75,7 +76,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
   <div data-collapse="medium" data-animation="default" data-duration="400" data-w-id="bbad45a3-4fbe-92aa-64e2-e20955e7b3a7" class="navbar w-nav">
-    <div class="brandlogo">vicaruiz</div>
+    <h1 class="brandlogo">vicaruiz</h1>
     <nav role="navigation" class="nav-menu w-nav-menu"><a href="#home" class="nav-link w-nav-link">Home</a><a href="#about" class="nav-link w-nav-link">About</a><a href="#works" class="nav-link w-nav-link">Work</a><a href="#case-studies" class="nav-link w-nav-link">Case Studies</a><a href="#portfolio" class="nav-link w-nav-link">Portfolio</a><a href="#contact" class="nav-link w-nav-link">ConNEct</a></nav>
     <div class="menu-button w-nav-button">
       <div class="icon w-icon-nav-menu"></div>
@@ -161,7 +162,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="work-description">
             <h3 class="heading">&quot;In essense,</h3>
             <blockquote class="blockquote">I draw maps and diagrams to guide teams through systems and complex concepts into defining meaningful categories, information architectures, functional requirements, content structure, navigation, and interactions.<br>‍<br>Bridging Design thinking with Development for digital products, I participate in the research, analysis, design, implementation, and testing phases.&quot;</blockquote>
-            <p>Bridging Design thinking with Development for digital products, I participate in the research, analysis, design, implementation, and testing phases."</p></blockquote>
+            
           </div>
         </div>
         <div class="column w-col w-col-8 w-col-stack">
@@ -185,8 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="slide-nav w-slider-nav w-slider-nav-invert w-num"></div>
           </div>
-          <div data-w-id="f76a7096-a0e2-0ac3-3663-ed3cb449184c" class="slide-long w-clearfix"><img src="images/1.jpg" sizes="100vw" srcset="images/1-p-800.jpeg 800w, images/1.jpg 852w" alt="Image of Lexicon Bilingual Resources website on an iMac 27&quot; display
- " class="image-9"><img src="images/3.jpg" sizes="100vw" srcset="images/3-p-500.jpeg 500w, images/3.jpg 852w" alt="Information Architecture diagram for Lexicon Bilingual Resources" class="image-10"><img src="images/2.jpg" sizes="100vw" srcset="images/2-p-500.jpeg 500w, images/2-p-800.jpeg 800w, images/2.jpg 852w" alt="Lexicon Bilingual Resources website and UX Design artifacts"></div>
+          <div data-w-id="f76a7096-a0e2-0ac3-3663-ed3cb449184c" class="slide-long w-clearfix"><img src="images/1.jpg" sizes="100vw" srcset="images/1-p-800.jpeg 800w, images/1.jpg 852w" alt="Desktop view of educational website designed for Lexicon Bilingual Resources" class="image-9"><img src="images/3.jpg" sizes="100vw" srcset="images/3-p-500.jpeg 500w, images/3.jpg 852w" alt="Information Architecture diagram for Lexicon Bilingual Resources" class="image-10"><img src="images/2.jpg" sizes="100vw" srcset="images/2-p-500.jpeg 500w, images/2-p-800.jpeg 800w, images/2.jpg 852w" alt="Lexicon Bilingual Resources website and UX Design artifacts"></div>
         </div>
       </div>
     </div>
@@ -210,7 +210,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
         <div class="w-col w-col-4">
-          <div class="feat"><img src="images/SCG-Mobile-UI.jpg" alt="Image of Southern California Gas Company Energy Management App on iPhone 5" class="image">
+          <div class="feat"><img src="images/SCG-Mobile-UI.jpg" alt="User Interface mockup of an Energy Management App designed for SoCalGas" class="image">
             <h3>SCG-13-010</h3>
             <h4>High Definition Mockups for Proof of Concept</h4>
             <p class="paragraph-2">High Fidelity iOS Mockups for Energy Management App</p>
@@ -226,7 +226,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
         <div class="w-col w-col-4">
-          <div class="feat"><img src="images/SCG-Accessibility.jpg" alt="Image of computer keyboard with superimposed accessibility wheelchair symbol" class="image-2">
+          <div class="feat"><img src="images/SCG-Accessibility.jpg" alt="Close up of computer keyboard with superimposed wheelchair symbol conveying keyboard accessibility" class="image-2">
             <h3>SCG-13-011</h3>
             <h4>Section 805 - Web Content Accessibility for Audit Documentation</h4>
             <p class="paragraph-2">Improving Web Content Accessibility means enabling users of all physical and cognitive levels to perceive, understand, navigate, interact with and contribute to the web.</p>
@@ -237,7 +237,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li class="skill">PROTOTYPING</li>
             </ul>
             <a href="https://vicaruiz.myportfolio.com/improving-web-content-accessibility" target="_blank" class="link-block w-inline-block w-clearfix">
-              <div class="text-block">View Project in Invision</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 60px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-3">
+              <div class="text-block">View Project in Behance</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 60px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-3">
             </a>
           </div>
         </div>
@@ -246,42 +246,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="portfolio" class="portfolio">
       <h2 class="section-heading">ARTIFACTS</h2>
       <div class="portfolio-thumbs">
-        <a href="https://vicaruiz.myportfolio.com/ios-social-storytelling-app" target="_blank" data-w-id="c16391ad-0eb4-9922-a8d4-d134485817d3" class="project-thumb w-inline-block"><img src="images/portfolio-thumb-1.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-1.png 500w, images/portfolio-thumb-1.png 600w" alt="Illustration of a missing piece of a puzzle within intersecting human brains" class="project-img-thumb">
+        <a href="https://vicaruiz.myportfolio.com/user-experience-ux-research" target="_blank" data-w-id="c16391ad-0eb4-9922-a8d4-d134485817d3" class="project-thumb w-inline-block"><img src="images/portfolio-thumb-1.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-1.png 500w, images/portfolio-thumb-1.png 600w" alt="Illustration of a missing piece of a puzzle within intersecting human brains" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">USER EXPERIENCE (UX) Research<br></div>
           </div>
         </a>
-        <a href="https://vicaruiz.myportfolio.com/various-freelance-projects" target="_blank" data-w-id="2754fafa-b859-c1e7-dc0b-5ecba7d4ad2c" class="project-thumb i2 w-inline-block"><img src="images/portfolio-thumb-2.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-2.png 500w, images/portfolio-thumb-2.png 600w" alt="Illustration of intersected nodes, representing actions, objects, and atributes" class="project-img-thumb">
+        <a href="https://vicaruiz.myportfolio.com/conceptual-models" target="_blank" data-w-id="2754fafa-b859-c1e7-dc0b-5ecba7d4ad2c" class="project-thumb i2 w-inline-block"><img src="images/portfolio-thumb-2.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-2.png 500w, images/portfolio-thumb-2.png 600w" alt="Illustration of intersected nodes, representing actions, objects, and atributes" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">Conceptual Models</div>
           </div>
         </a>
-        <a href="https://vicaruiz.myportfolio.com/various-freelance-projects" target="_blank" data-w-id="4def6321-956a-9aca-3a7e-fdfdba1c3519" class="project-thumb i3 w-inline-block"><img src="images/portfolio-thumb-3_1.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-3_1-p-500.png 500w, images/portfolio-thumb-3_1.png 600w" alt="Photo of a human&#x27;s hands on a white desk sorting sketched pieces of a mobile user interface prototype" class="project-img-thumb">
-          <div style="opacity:0" class="item-title">
-            <div class="project-title">User Interface (UI) Design</div>
-          </div>
-        </a>
-        <a href="https://vicaruiz.myportfolio.com/various-freelance-projects" target="_blank" data-w-id="ea59167f-57c0-d9d8-ba70-a989957c4fb8" class="project-thumb i4 w-inline-block"><img src="images/portfolio-thumb-4.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-4.png 500w, images/portfolio-thumb-4.png 600w" alt="Illustration of an information architecture diagram representing a site map" class="project-img-thumb">
+        <a href="https://vicaruiz.myportfolio.com/information-architecture-ia" target="_blank" data-w-id="ea59167f-57c0-d9d8-ba70-a989957c4fb8" class="project-thumb i4 w-inline-block"><img src="images/portfolio-thumb-4.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-4.png 500w, images/portfolio-thumb-4.png 600w" alt="Illustration of an information architecture diagram representing a site map" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">Information Architecture (IA)</div>
           </div>
         </a>
-        <a href="https://vicaruiz.myportfolio.com/b2b-ux-design" target="_blank" data-w-id="9bd5b748-c799-0c0c-d4a2-af6d60aa07ec" class="project-thumb i5 w-inline-block"><img src="images/portfolio-thumb-5.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-5.png 500w, images/portfolio-thumb-5.png 600w" alt="Picture of a human interacting with a virtual reality headset using hand gestures" class="project-img-thumb">
+        <a href="https://vicaruiz.myportfolio.com/user-interface-ui-design" target="_blank" data-w-id="4def6321-956a-9aca-3a7e-fdfdba1c3519" class="project-thumb i3 w-inline-block"><img src="images/portfolio-thumb-3_1.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-3_1-p-500.png 500w, images/portfolio-thumb-3_1.png 600w" alt="Photo of a human&#x27;s hands on a white desk sorting sketched pieces of a mobile user interface prototype" class="project-img-thumb">
+          <div style="opacity:0" class="item-title">
+            <div class="project-title">User Interface (UI) Design</div>
+          </div>
+        </a>
+        <a href="https://vicaruiz.myportfolio.com/interaction-design-ixd" target="_blank" data-w-id="9bd5b748-c799-0c0c-d4a2-af6d60aa07ec" class="project-thumb i5 w-inline-block"><img src="images/portfolio-thumb-5.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-5.png 500w, images/portfolio-thumb-5.png 600w" alt="Picture of a human interacting with a virtual reality headset using hand gestures" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">Interaction Design (IXD)</div>
           </div>
         </a>
-        <a href="https://vicaruiz.myportfolio.com/various-freelance-projects" target="_blank" data-w-id="26cd8933-ccde-bf7b-f518-574f04d87afc" class="project-thumb i6 w-inline-block"><img src="images/portfolio-thumb-6.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-6.png 500w, images/portfolio-thumb-6.png 600w" alt="Picture of words in stylish type font with mixed properties and orientation" class="project-img-thumb">
+        <a href="https://vicaruiz.myportfolio.com/typography-and-visual-design" target="_blank" data-w-id="26cd8933-ccde-bf7b-f518-574f04d87afc" class="project-thumb i6 w-inline-block"><img src="images/portfolio-thumb-6.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-6.png 500w, images/portfolio-thumb-6.png 600w" alt="Picture of words in stylish type font with mixed properties and orientation" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
-            <div class="project-title">TYPOGRAPHY<br>&amp; Visual design</div>
+            <div class="project-title">Visual design</div>
           </div>
         </a>
-        <a href="images/portfolio-thumb-3.png" data-w-id="399de4a8-bbfa-b805-776b-0ee919569036" class="project-thumb w-inline-block"><img src="images/portfolio-thumb-7.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-7.png 500w, images/portfolio-thumb-7.png 600w" alt="Illustration of various data visualization graphs" class="project-img-thumb">
+        <a href="https://vicaruiz.myportfolio.com/data-science" data-w-id="399de4a8-bbfa-b805-776b-0ee919569036" class="project-thumb w-inline-block"><img src="images/portfolio-thumb-7.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-7.png 500w, images/portfolio-thumb-7.png 600w" alt="Illustration of various data visualization graphs" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">Data Sience</div>
           </div>
         </a>
-        <a href="https://vicaruiz.myportfolio.com/various-ux-artifacts" target="_blank" data-w-id="6b45930f-2596-4d37-5fba-0cf284498316" class="project-thumb i8 w-inline-block"><img src="images/portfolio-thumb-8.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-8.png 500w, images/portfolio-thumb-8.png 600w" alt="Illustration of multiple computer devices including desktop, laptop, tablet and mobile" class="project-img-thumb">
+        <a href="https://vicaruiz.myportfolio.com/web-application-development" target="_blank" data-w-id="6b45930f-2596-4d37-5fba-0cf284498316" class="project-thumb i8 w-inline-block"><img src="images/portfolio-thumb-8.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-8.png 500w, images/portfolio-thumb-8.png 600w" alt="Illustration of multiple computer devices including desktop, laptop, tablet and mobile" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">Web Application Development</div>
           </div>
@@ -372,6 +372,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <label for="email">Email Address:</label>
           <input type="text" class="text-field w-input" maxlength="256" name="email" data-name="Email" placeholder="Enter your email" id="email" required="">
           
+          <label for="Message">Message</label>
           <textarea id="Message" name="Message" placeholder="How might we design.." maxlength="5000" data-name="Message" class="textarea w-input"></textarea>
 
           <center>
@@ -393,7 +394,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
 
     <div class="footerLogo">  
-    <img src="images/logo_2-white.png" class="image-4">
+    <img src="images/logo_2-white.png" alt="VARCXX Trademark Symbol" class="image-4">
      </div>
     </div>
   </div>

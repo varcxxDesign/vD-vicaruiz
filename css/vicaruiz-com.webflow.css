@@ -918,6 +918,7 @@
   margin: 15px 20px auto;
   float: left;
   font-size: 2em;
+  font-weight: 400 !important;
 }
 
 .text-block-2 {
@@ -1001,7 +1002,7 @@
     background-color: #000;
   }
 
-  .brandLogo { color: #fff; }
+
   .icon {
     font-size: 32px;
   }
@@ -1043,10 +1044,6 @@
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-  }
-
-  .brandlogo {
-    color: #fff;
   }
 
   .text-block-2 {

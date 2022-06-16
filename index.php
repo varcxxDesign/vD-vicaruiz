@@ -24,13 +24,13 @@
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9234063-12"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QGPDWQ3JFP"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-9234063-12');
+  gtag('config', 'G-QGPDWQ3JFP');
 </script>
 
   <!-- Google Tag Manager -->

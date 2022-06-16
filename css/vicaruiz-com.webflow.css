@@ -65,7 +65,7 @@
   filter: saturate(100%) invert(100%);
 }
 
-.project-thumb.i1 {
+.project-thumb.li {
   position: static;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.11)), to(rgba(0, 0, 0, 0.11)));
   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.11), rgba(0, 0, 0, 0.11));
@@ -273,11 +273,40 @@
   width: 100%;
 }
 
+.skill-tags {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 60px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  list-style-type: none;
+}
+
 .skill {
   display: inline-block;
   margin-right: 3px;
   margin-bottom: 3px;
   padding: 5px 10px;
+  border-radius: 4px;
   float: left;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.65)), to(rgba(0, 0, 0, 0.65)));
   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65));

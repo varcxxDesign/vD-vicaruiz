@@ -41,7 +41,8 @@
 #myCanvas {
   margin-right: auto;
   margin-left: auto;
-  font-family: 'Georgia', serif;
+  /* font-family: 'Georgia', serif; */
+  font-family: 'Roboto Condensed', sans-serif;
   margin-top: -200px; }
   @media (max-width: 640px) {
     #myCanvas {

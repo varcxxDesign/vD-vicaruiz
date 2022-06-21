@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<!--  This site was created in Webflow. http://www.webflow.com  -->
-<!--  Last Published: Wed Jan 20 2021 06:03:52 GMT+0000 (Coordinated Universal Time)  -->
+<!--  Last Published: Wed Jun 20 2022 06:03:52 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="5b0c51bb15edacac6cbf97a6" data-wf-site="5b0c51bb15edac23aebf97a5" lang="en">
 
 <head>
@@ -13,7 +12,9 @@
   <link href="css/webflow.css" rel="stylesheet" type="text/css">
   <link href="css/vicaruiz-com.webflow.css" rel="stylesheet" type="text/css">
   <link href="css/style.css" rel="stylesheet" type="text/css">
-
+  <style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+</style>
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
   <script type="text/javascript">WebFont.load({  google: {    families: ["Ubuntu:300,300italic,400,400italic,500,500italic,700,700italic","Vollkorn:400,400italic,700,700italic","Open Sans Condensed:300,300italic","Patua One:regular","Ubuntu Condensed:regular","Source Sans Pro:200,300,regular"]  }});</script>
   <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
@@ -212,7 +213,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="w-col w-col-4">
           <div class="feat"><img src="images/SCG-Mobile-UI.jpg" alt="User Interface mockup of an Energy Management App designed for SoCalGas" class="image">
             <h3>SCG-13-010</h3>
-            <h4>High Definition Mockups for Proof of Concept</h4>
+            <h4>Mobile UI Design for iOS App</h4>
             <p class="paragraph-2">High Fidelity iOS Mockups for Energy Management App</p>
             <ul role="list" class="skill-tags w-clearfix w-list-unstyled">
               <li class="skill">UX</li>
@@ -221,7 +222,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li class="skill">PROTOTYPING</li>
             </ul>
             <a href="https://vicaruiz.myportfolio.com/mobile-app-for-managing-energy-usage" target="_blank" class="link-block w-inline-block w-clearfix">
-              <div class="text-block">View Project in Behance</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 60px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-3">
+              <div class="text-block">View Project in Portfolio Site</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 60px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-3">
             </a>
           </div>
         </div>
@@ -237,7 +238,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li class="skill">PROTOTYPING</li>
             </ul>
             <a href="https://vicaruiz.myportfolio.com/improving-web-content-accessibility" target="_blank" class="link-block w-inline-block w-clearfix">
-              <div class="text-block">View Project in Behance</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 60px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-3">
+              <div class="text-block">View Project in Portfolio Site</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 60px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-3">
             </a>
           </div>
         </div>
@@ -258,7 +259,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a>
         <a href="https://vicaruiz.myportfolio.com/information-architecture-ia" target="_blank" data-w-id="ea59167f-57c0-d9d8-ba70-a989957c4fb8" class="project-thumb i4 w-inline-block"><img src="images/portfolio-thumb-4.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-4.png 500w, images/portfolio-thumb-4.png 600w" alt="Illustration of an information architecture diagram representing a site map" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
-            <div class="project-title">Information Architecture (IA)</div>
+            <div class="project-title">Information Architecture (IA) Diagrams</div>
           </div>
         </a>
         <a href="https://vicaruiz.myportfolio.com/user-interface-ui-design" target="_blank" data-w-id="4def6321-956a-9aca-3a7e-fdfdba1c3519" class="project-thumb i3 w-inline-block"><img src="images/portfolio-thumb-3_1.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-3_1-p-500.png 500w, images/portfolio-thumb-3_1.png 600w" alt="Photo of a human&#x27;s hands on a white desk sorting sketched pieces of a mobile user interface prototype" class="project-img-thumb">

@@ -147,7 +147,7 @@
   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
 }
 
-.about p  { color: #fff; padding: 0 1.5em 1.5em; font-weight: 100; font-size: 1.5em; line-height: 1.3em; text-align: center; }
+.about p  { color: #fff; padding: 1.5em 1.5em; font-weight: 100; font-size: 1.75em; line-height: 1.3em; text-align: center; }
 
 .block-quote {
   display: block;
@@ -215,7 +215,7 @@
   -webkit-box-align: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
-  align-items: center;
+  align-items: baseline;
   border-style: none;
   border-bottom-width: 1px;
   border-bottom-color: #a8a8a8;
@@ -269,13 +269,15 @@
   width: 100%;
 }
 
+.use-case-thumb { width: 100%; margin-bottom: 10px;}
+
 .image-2 {
   width: 100%;
 }
 
 .skill-tags {
   position: absolute;
-  left: 0%;
+  left: 10px;
   top: auto;
   right: 0%;
   bottom: 60px;
@@ -316,7 +318,11 @@
 .paragraph-2 {
   margin-bottom: 30px;
   font-weight: 300;
+  font-size: 2 em;
 }
+
+.g-recaptcha { display: flex;
+  justify-content: center;}
 
 .footer {
   position: static;
@@ -337,18 +343,18 @@
   align-items: center;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#000), to(#000));
   background-image: linear-gradient(180deg, #000, #000);
-  text-align: right;
+
 }
 
-.image-3 {
-  width: 60px;
+.external-link {
+  width: 40px;
   float: right;
 }
 
 .link-block {
   position: absolute;
   right: 0px;
-  bottom: 0px;
+  bottom: 10px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -442,7 +448,7 @@
 
 .companies {
   margin-bottom: 80px;
-  font-family: Ubuntu, Helvetica, sans-serif;
+  /* font-family: Ubuntu, Helvetica, sans-serif; */
   font-weight: 300;
 }
 
@@ -450,9 +456,10 @@
   display: block;
   width: 100%;
   margin: 20px auto 28px;
-  font-family: 'Open Sans Condensed', sans-serif;
+  /* font-family: 'Open Sans Condensed', sans-serif; */
+  font-family: 'Roboto Condensed', sans-serif;
   color: #909090;
-  font-size: 44px;
+  font-size: 42px;
   line-height: 50px;
   font-style: italic;
   text-align: center;
@@ -930,16 +937,16 @@
   margin-right: auto;
   margin-bottom: 25px;
   margin-left: auto;
-  padding: 1em 1.5em 1.5em;
+  /* padding: 1.5em 1.5em 1.5em; */
   color: #fff;
-  font-size: 1.5em;
+  font-size: 1.75em;
   line-height: 1.3em;
   font-weight: 300;
   text-align: center;
 }
 
 .work-description {
-  padding-right: 40px;
+  padding-right: 20px;
   padding-bottom: 60px;
   padding-left: 30px;
   color: #7c7b7b;

@@ -161,7 +161,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="row w-row">
         <div class="column-2 w-col w-col-4 w-col-stack">
           <div class="work-description">
-            <h3 class="heading">&quot;In essense,</h3>
+            <h3 class="heading">What I do</h3>
             <blockquote class="blockquote">I draw maps and diagrams to guide teams through systems and complex concepts into defining meaningful categories, information architectures, functional requirements, content structure, navigation, and interactions.<br>‍<br>Bridging Design thinking with Development for digital products, I participate in the research, analysis, design, implementation, and testing phases.&quot;</blockquote>
             
           </div>
@@ -195,9 +195,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <h2 class="section-heading">CASE STUDIES</h2>
       <div class="w-row">
         <div class="w-col w-col-4">
-          <div class="feat"><img src="images/_thumb.jpg" sizes="(max-width: 479px) 87vw, (max-width: 767px) 92vw, 27vw" srcset="images/_thumb-p-500.jpeg 500w, images/_thumb.jpg 800w" alt="Simon G. Retail Responsive Lead Generating Website" class="image-6">
-            <h3>SGJ-15-008</h3>
-            <h4>Clickable Prototype for Lead Generating Mobile Site</h4>
+          <div class="feat"><img src="images/_thumb.jpg" sizes="(max-width: 479px) 87vw, (max-width: 767px) 92vw, 27vw" srcset="images/_thumb-p-500.jpeg 500w, images/_thumb.jpg 800w" alt="Simon G. Retail Responsive Lead Generating Website" class="use-case-thumb">
+            <span class="eyebrow">SGJ-15-008</span>
+            <h3>Clickable Prototype for Lead Generating Mobile Site</h3>
             <p class="paragraph-2">Made with Invision this prototype validated the new design and planned functionality after being tested with a closed user group. Later it also helped guide the implementation of the Product Showcase feature of a very successful Co-branded marketing campaign.</p>
             <ul role="list" class="skill-tags w-clearfix w-list-unstyled">
               <li class="skill">UX</li>
@@ -206,14 +206,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li class="skill">PROTOTYPING</li>
             </ul>
             <a href="http://portfolio.vicaruiz.com/vD-SGJ_Cobranded-Product_Showcase_iPhone/#/screens/191012371" target="_blank" class="link-block w-inline-block w-clearfix">
-              <div class="text-block">View Project in Invision</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 60px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-3">
+              <div class="text-block">View Project in Invision</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 40px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="external-link">
             </a>
           </div>
         </div>
         <div class="w-col w-col-4">
-          <div class="feat"><img src="images/SCG-Mobile-UI.jpg" alt="User Interface mockup of an Energy Management App designed for SoCalGas" class="image">
-            <h3>SCG-13-010</h3>
-            <h4>Mobile UI Design for iOS App</h4>
+          <div class="feat"><img src="images/SCG-Mobile-UI.jpg" alt="User Interface mockup of an Energy Management App designed for SoCalGas" class="use-case-thumb">
+            <span class="eyebrow">SCG-13-010</span>
+            <h3>Mobile UI Design for iOS App</h3>
             <p class="paragraph-2">High Fidelity iOS Mockups for Energy Management App</p>
             <ul role="list" class="skill-tags w-clearfix w-list-unstyled">
               <li class="skill">UX</li>
@@ -222,14 +222,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li class="skill">PROTOTYPING</li>
             </ul>
             <a href="https://vicaruiz.myportfolio.com/mobile-app-for-managing-energy-usage" target="_blank" class="link-block w-inline-block w-clearfix">
-              <div class="text-block">View Project in Portfolio Site</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 60px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-3">
+              <div class="text-block">View Project in Portfolio Site</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 40px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="external-link">
             </a>
           </div>
         </div>
         <div class="w-col w-col-4">
-          <div class="feat"><img src="images/SCG-Accessibility.jpg" alt="Close up of computer keyboard with superimposed wheelchair symbol conveying keyboard accessibility" class="image-2">
-            <h3>SCG-13-011</h3>
-            <h4>Section 805 - Web Content Accessibility for Audit Documentation</h4>
+          <div class="feat"><img src="images/SCG-Accessibility.jpg" alt="Close up of computer keyboard with superimposed wheelchair symbol conveying keyboard accessibility" class="use-case-thumb">
+            <span class="eyebrow">SCG-13-011</span>
+            <h3>Section 805 - Web Content Accessibility for Audit Documentation</h3>
             <p class="paragraph-2">Improving Web Content Accessibility means enabling users of all physical and cognitive levels to perceive, understand, navigate, interact with and contribute to the web.</p>
             <ul role="list" class="skill-tags w-clearfix w-list-unstyled">
               <li class="skill">UX</li>
@@ -238,7 +238,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li class="skill">PROTOTYPING</li>
             </ul>
             <a href="https://vicaruiz.myportfolio.com/improving-web-content-accessibility" target="_blank" class="link-block w-inline-block w-clearfix">
-              <div class="text-block">View Project in Portfolio Site</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 60px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-3">
+              <div class="text-block">View Project in Portfolio Site</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 40px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="external-link">
             </a>
           </div>
         </div>
@@ -262,7 +262,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="project-title">Information Architecture (IA) Diagrams</div>
           </div>
         </a>
-        <a href="https://vicaruiz.myportfolio.com/user-interface-ui-design" target="_blank" data-w-id="4def6321-956a-9aca-3a7e-fdfdba1c3519" class="project-thumb i3 w-inline-block"><img src="images/portfolio-thumb-3_1.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-3_1-p-500.png 500w, images/portfolio-thumb-3_1.png 600w" alt="Photo of a human&#x27;s hands on a white desk sorting sketched pieces of a mobile user interface prototype" class="project-img-thumb">
+        <a href="https://vicaruiz.myportfolio.com/user-interface-ui-design" target="_blank" data-w-id="4def6321-956a-9aca-3a7e-fdfdba1c3519" class="project-thumb i3 w-inline-block"><img src="images/portfolio-thumb-3_1.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-3_1-p-500.png 500w, images/portfolio-thumb-3_1.png 600w" alt="Hands on a white desk, sorting sketched pieces of a mobile device UI" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">User Interface (UI) Design</div>
           </div>
@@ -376,11 +376,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <label for="Message">Message</label>
           <textarea id="Message" name="Message" placeholder="How might we design.." maxlength="5000" data-name="Message" class="textarea w-input"></textarea>
 
-          <center>
-            <div class="g-recaptcha" data-sitekey="6LexLQkaAAAAAB9urRypH8s76g9Vo_e3UQLCYKka"></div>
-          </center>
-
+          <div class="g-recaptcha" data-sitekey="6LexLQkaAAAAAB9urRypH8s76g9Vo_e3UQLCYKka"></div>
           <input class="text-field w-input" type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
+          
           <input type="Submit" value="SEND" data-wait="Please wait..." class="submit-btn w-button">
         </form>
         <div class="w-form-done" style="margin-top: 50px; margin-bottom: 10px;">

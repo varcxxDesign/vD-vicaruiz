@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
   <div data-collapse="medium" data-animation="default" data-duration="400" data-w-id="bbad45a3-4fbe-92aa-64e2-e20955e7b3a7" class="navbar w-nav">
     <h1 class="brandlogo">vicaruiz</h1>
-    <nav role="navigation" class="nav-menu w-nav-menu"><a href="#home" class="nav-link w-nav-link">Home</a><a href="#about" class="nav-link w-nav-link">About</a><a href="#works" class="nav-link w-nav-link">Work</a><a href="#case-studies" class="nav-link w-nav-link">Case Studies</a><a href="#portfolio" class="nav-link w-nav-link">Portfolio</a><a href="#contact" class="nav-link w-nav-link">ConNEct</a></nav>
+    <nav role="navigation" class="nav-menu w-nav-menu"><a href="#home" class="nav-link w-nav-link">Home</a><a href="#about" class="nav-link w-nav-link">About</a><a href="#works" class="nav-link w-nav-link">Work</a><a href="#case-studies" class="nav-link w-nav-link">Case Studies</a><a href="#portfolio" class="nav-link w-nav-link">Portfolio</a><a href="#contact" class="nav-link w-nav-link">Contact</a></nav>
     <div class="menu-button w-nav-button">
       <div class="icon w-icon-nav-menu"></div>
     </div>
@@ -197,12 +197,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="w-col w-col-4">
           <div class="feat"><img src="images/_thumb.jpg" sizes="(max-width: 479px) 87vw, (max-width: 767px) 92vw, 27vw" srcset="images/_thumb-p-500.jpeg 500w, images/_thumb.jpg 800w" alt="Simon G. Retail Responsive Lead Generating Website" class="use-case-thumb">
             <span class="eyebrow">SGJ-15-008</span>
-            <h3>Clickable Prototype for Lead Generating Mobile Site</h3>
-            <p class="paragraph-2">Made with Invision this prototype validated the new design and planned functionality after being tested with a closed user group. Later it also helped guide the implementation of the Product Showcase feature of a very successful Co-branded marketing campaign.</p>
+            <h3>Co-branded Product Showcase Mini-sites</h3>
+            <p class="paragraph-2">Made with Invision, this prototype helped validate and get buy-in for the solution proposed in the new design and was used to define the content and functional requirements. </p>
             <ul role="list" class="skill-tags w-clearfix w-list-unstyled">
-              <li class="skill">UX</li>
-              <li class="skill">UI</li>
-              <li class="skill">DESIGN</li>
+              <li class="skill">UX/UI</li>
+              <li class="skill">RESPONSIVE DESIGN</li>
               <li class="skill">PROTOTYPING</li>
             </ul>
             <a href="http://portfolio.vicaruiz.com/vD-SGJ_Cobranded-Product_Showcase_iPhone/#/screens/191012371" target="_blank" class="link-block w-inline-block w-clearfix">
@@ -213,13 +212,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="w-col w-col-4">
           <div class="feat"><img src="images/SCG-Mobile-UI.jpg" alt="User Interface mockup of an Energy Management App designed for SoCalGas" class="use-case-thumb">
             <span class="eyebrow">SCG-13-010</span>
-            <h3>Mobile UI Design for iOS App</h3>
-            <p class="paragraph-2">High Fidelity iOS Mockups for Energy Management App</p>
+            <h3>Efficient Energy Consumption App Design</h3>
+            <p class="paragraph-2">Early proof of concept for a Mobile App that helps residential and business customers track natural gas consumption, start and stop service and make payments on the go.</p>
             <ul role="list" class="skill-tags w-clearfix w-list-unstyled">
-              <li class="skill">UX</li>
-              <li class="skill">UI</li>
-              <li class="skill">DESIGN</li>
-              <li class="skill">PROTOTYPING</li>
+              <li class="skill">UX/UI</li>
+              <li class="skill">MOBILE DESIGN</li>
+              
             </ul>
             <a href="https://vicaruiz.myportfolio.com/mobile-app-for-managing-energy-usage" target="_blank" class="link-block w-inline-block w-clearfix">
               <div class="text-block">View Project in Portfolio Site</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 40px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="external-link">
@@ -229,13 +227,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="w-col w-col-4">
           <div class="feat"><img src="images/SCG-Accessibility.jpg" alt="Close up of computer keyboard with superimposed wheelchair symbol conveying keyboard accessibility" class="use-case-thumb">
             <span class="eyebrow">SCG-13-011</span>
-            <h3>Section 805 - Web Content Accessibility for Audit Documentation</h3>
-            <p class="paragraph-2">Improving Web Content Accessibility means enabling users of all physical and cognitive levels to perceive, understand, navigate, interact with and contribute to the web.</p>
+            <h3>Improving Accessibility of B2C Websites</h3>
+            <p class="paragraph-2">It takes a shift in mindset to think first in terms of accessibility, rather than think of accessibility as something that can be added at the end of the process. </p>
             <ul role="list" class="skill-tags w-clearfix w-list-unstyled">
-              <li class="skill">UX</li>
-              <li class="skill">UI</li>
-              <li class="skill">DESIGN</li>
-              <li class="skill">PROTOTYPING</li>
+              <li class="skill">UX/UI</li>
+              <li class="skill">WCAG</li>
+              <li class="skill">A11Y</li>
             </ul>
             <a href="https://vicaruiz.myportfolio.com/improving-web-content-accessibility" target="_blank" class="link-block w-inline-block w-clearfix">
               <div class="text-block">View Project in Portfolio Site</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 40px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="UI-Link to external URL" class="external-link">
@@ -341,7 +338,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </main>
   <footer class="footer">
     <div id="contact" class="contact">
-      <h2 class="section-heading">CONNECT</h2>
+      <h2 class="section-heading">CONTACT</h2>
       <div class="social-media-links">
         <a href="https://www.linkedin.com/in/vicaruiz" target="_blank" class="sm-link w-inline-block"><img src="images/linked-in_white.png" sizes="(max-width: 479px) 100vw, (max-width: 767px) 17vw, 100px" srcset="images/linked-in_white-p-500.png 500w, images/linked-in_white.png 512w" alt="LinkedIn logo"></a>
         <a href="https://www.behance.net/vicaruiz" target="_blank" class="sm-link w-inline-block"><img src="images/behance_white.png" sizes="(max-width: 479px) 100vw, (max-width: 767px) 17vw, 100px" srcset="images/behance_white-p-500.png 500w, images/behance_white.png 512w" alt="Behance logo"></a>

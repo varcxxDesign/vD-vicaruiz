@@ -269,15 +269,14 @@
   width: 100%;
 }
 
-.use-case-thumb { width: 100%; margin-bottom: 10px;}
+.use-case-thumb { width: 100%; margin-bottom: 15px;}
 
 .image-2 {
   width: 100%;
 }
 
 .skill-tags {
-  position: absolute;
-  left: 10px;
+
   top: auto;
   right: 0%;
   bottom: 60px;
@@ -287,7 +286,7 @@
   display: flex;
   margin-right: 10px;
   margin-bottom: 0px;
-  margin-left: 10px;
+  
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -613,7 +612,7 @@
   padding: 20px 30px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#909090), to(#909090));
   background-image: linear-gradient(180deg, #909090, #909090);
-  font-family: Vollkorn, serif;
+  font-family: 'Roboto Condensed', sans-serif;
   color: #fff;
   font-size: 43px;
   text-align: center;
@@ -957,6 +956,7 @@ h1.brandlogo {
   float: left;
   font-size: 2em;
   font-weight: 400 !important;
+  
 }
 
 .text-block-2 {
@@ -977,6 +977,8 @@ h1.brandlogo {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
   }
+
+  h1.brandlogo { color: white;}
 
   .project-thumb {
     width: 140px;
@@ -1116,6 +1118,7 @@ h1.brandlogo {
   .paragraph {
     padding-bottom: 30px;
   }
+  p.about-paragraph { font-size: 1.25em;}
 
   .column {
     overflow: hidden;

@@ -22,9 +22,6 @@
 .footer {
   margin-top: -600px !important; }
 
-.column-2 h3 {
-  padding-left: 40px; }
-
 /* Layouts */
 /* -- TAG CANVAS -- */
 #myCanvasContainer {
@@ -44,9 +41,22 @@
 #myCanvas {
   margin-right: auto;
   margin-left: auto;
-  font-family: 'Georgia', serif;
+  /* font-family: 'Georgia', serif; */
+  font-family: 'Roboto Condensed', sans-serif;
   margin-top: -200px; }
   @media (max-width: 640px) {
     #myCanvas {
       width: 300px;
       height: 600px; } }
+
+/* Works Section */
+.sr-only {
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  margin: -1px;
+}

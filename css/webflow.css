@@ -241,7 +241,7 @@ p {
   margin-top: 0;
   margin-bottom: 10px;
 }
-blockquote {
+.blockquote {
   margin: 0 0 10px 0;
   padding: 10px 20px;
   border-left: 5px solid #E2E2E2;

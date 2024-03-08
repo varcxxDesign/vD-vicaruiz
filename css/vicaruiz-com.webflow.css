@@ -405,6 +405,7 @@
   font-weight: 400;
   text-align: center;
   letter-spacing: 7px;
+  text-transform: uppercase;
 }
 
 .footerLogo {width: 100%; text-align: center;}
@@ -952,7 +953,7 @@
 }
 
 h1.brandlogo {
-  margin: 15px 20px auto;
+  margin: 9px 20px auto;
   float: left;
   font-size: 2em;
   font-weight: 400 !important;
@@ -1011,6 +1012,7 @@ h1.brandlogo {
   .section-heading {
     padding-right: 30px;
     padding-left: 30px;
+    text-transform: uppercase;
   }
 
   .image-7 {
@@ -1144,6 +1146,7 @@ h1.brandlogo {
     margin-right: 10px;
     margin-left: 10px;
     font-size: 33px;
+    text-transform: uppercase;
   }
 
   .form-block {

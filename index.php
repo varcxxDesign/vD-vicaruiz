@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
   <div data-collapse="medium" data-animation="default" data-duration="400" data-w-id="bbad45a3-4fbe-92aa-64e2-e20955e7b3a7" class="navbar w-nav">
     <h1 class="brandlogo">vicaruiz</h1>
-    <nav role="navigation" class="nav-menu w-nav-menu"><a href="#home" class="nav-link w-nav-link">Home</a><a href="#about" class="nav-link w-nav-link">About</a><a href="#works" class="nav-link w-nav-link">Work</a><a href="#case-studies" class="nav-link w-nav-link">Case Studies</a><a href="#portfolio" class="nav-link w-nav-link">Portfolio</a><a href="#contact" class="nav-link w-nav-link">Contact</a></nav>
+    <nav role="navigation" class="nav-menu w-nav-menu"><a href="#home" class="nav-link w-nav-link">Home</a><a href="#about" class="nav-link w-nav-link">About</a><a href="#works" class="nav-link w-nav-link">Work</a><a href="#use-cases" class="nav-link w-nav-link">Use Cases</a><a href="#portfolio" class="nav-link w-nav-link">Portfolio</a><a href="#contact" class="nav-link w-nav-link">Contact</a></nav>
     <div class="menu-button w-nav-button">
       <div class="icon w-icon-nav-menu"></div>
     </div>
@@ -194,7 +194,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
     <div id="case-studies" class="studies">
-      <h2 class="section-heading">Case Studies</h2>
+      <h2 class="section-heading">Use Cases</h2>
       <div class="w-row">
         <div class="w-col w-col-4">
           <div class="feat"><img src="images/_thumb.jpg" sizes="(max-width: 479px) 87vw, (max-width: 767px) 92vw, 27vw" srcset="images/_thumb-p-500.jpeg 500w, images/_thumb.jpg 800w" alt="Simon G. Retail Responsive Lead Generating Website" class="use-case-thumb">
@@ -214,14 +214,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="w-col w-col-4">
           <div class="feat"><img src="images/SCG-Mobile-UI.jpg" alt="User Interface mockup of an Energy Management App designed for SoCalGas" class="use-case-thumb">
             <span class="eyebrow">SCG-13-010</span>
-            <h3 id="CaseStudy2">Efficient Energy Consumption App Design</h3>
-            <p class="paragraph-2">Early proof of concept for a Mobile App that helps residential and business customers track natural gas consumption, start and stop service and make payments on the go.</p>
+            <h3 id="CaseStudy2">Gas Utility App for Efficient Energy Consumption</h3>
+            <p class="paragraph-2">Proof of concept for a Mobile App that helps residential and business customers track natural gas consumption, start and stop service and make payments on the go.</p>
             <ul role="list" class="skill-tags w-clearfix w-list-unstyled" aria-label="Skills">
               <li class="skill">UX/UI</li>
               <li class="skill">MOBILE DESIGN</li>
               
             </ul>
-            <a id="CaseStudy2-link" href="https://vicaruiz.myportfolio.com/mobile-app-for-managing-energy-usage" target="_blank" class="link-block w-inline-block w-clearfix" aria-labelledby="CaseStudy2 CaseStudy2-link">
+            <a id="CaseStudy2-link" href="https://myportfolio.vicaruiz.com/product/gas-utility-app-for-efficient-energy-consumption" target="_blank" class="link-block w-inline-block w-clearfix" aria-labelledby="CaseStudy2 CaseStudy2-link">
               <div class="text-block">View Project in Portfolio Site</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 40px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="Opens in new tab" class="external-link">
             </a>
           </div>
@@ -229,14 +229,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="w-col w-col-4">
           <div class="feat"><img src="images/SCG-Accessibility.jpg" alt="Close up of computer keyboard with superimposed wheelchair symbol conveying keyboard accessibility" class="use-case-thumb">
             <span class="eyebrow">SCG-13-011</span>
-            <h3 id="CaseStudy3">Improving Accessibility of B2C Websites</h3>
+            <h3 id="CaseStudy3">Empowering Inclusivity: A Journey in Improving Web Accessibility for All Users</h3>
             <p class="paragraph-2">It takes a shift in mindset to think first in terms of accessibility, rather than think of accessibility as something that can be added at the end of the process. </p>
             <ul role="list" class="skill-tags w-clearfix w-list-unstyled" aria-label="Skills">
               <li class="skill">UX/UI</li>
               <li class="skill">WCAG</li>
               <li class="skill">A11Y</li>
             </ul>
-            <a id="CaseStudy3-link" href="https://vicaruiz.myportfolio.com/improving-web-content-accessibility" target="_blank" class="link-block w-inline-block w-clearfix" aria-labelledby="CaseStudy3 CaseStudy3-link">
+            <a id="CaseStudy3-link" href="https://myportfolio.vicaruiz.com/product/empowering-inclusivity-a-journey-in-improving-web-accessibility-for-all-users" target="_blank" class="link-block w-inline-block w-clearfix" aria-labelledby="CaseStudy3 CaseStudy3-link">
               <div class="text-block">View Project in Portfolio Site</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 40px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="Opens in new tabL" class="external-link">
             </a>
           </div>
@@ -246,42 +246,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="portfolio" class="portfolio">
       <h2 class="section-heading">Portfolio</h2>
       <div class="portfolio-thumbs">
-        <a href="https://vicaruiz.myportfolio.com/user-research" target="_blank" data-w-id="c16391ad-0eb4-9922-a8d4-d134485817d3" class="project-thumb w-inline-block"><img src="images/portfolio-thumb-1.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-1.png 500w, images/portfolio-thumb-1.png 600w" alt="" class="project-img-thumb">
+        <a href="https://myportfolio.vicaruiz.com/research/field-studies-uncovering-user-insights-in-real-world-contexts" target="_blank" data-w-id="c16391ad-0eb4-9922-a8d4-d134485817d3" class="project-thumb w-inline-block"><img src="images/portfolio-thumb-1.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-1.png 500w, images/portfolio-thumb-1.png 600w" alt="" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">UX Research and Design <span class="sr-only">Artifacts. Opens in new tab</span></div>
           </div>
         </a>
-        <a href="https://vicaruiz.myportfolio.com/conceptual-models" target="_blank" data-w-id="2754fafa-b859-c1e7-dc0b-5ecba7d4ad2c" class="project-thumb i2 w-inline-block"><img src="images/portfolio-thumb-2.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-2.png 500w, images/portfolio-thumb-2.png 600w" alt="" class="project-img-thumb">
+        <a href="https://myportfolio.vicaruiz.com/design/conceptual-modeling-visualizing-user-needs-and-system-structures" target="_blank" data-w-id="2754fafa-b859-c1e7-dc0b-5ecba7d4ad2c" class="project-thumb i2 w-inline-block"><img src="images/portfolio-thumb-2.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-2.png 500w, images/portfolio-thumb-2.png 600w" alt="" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">Conceptual Modeling <span class="sr-only">Artifacts. Opens in new tab</span></div>
           </div>
         </a>
-        <a href="https://vicaruiz.myportfolio.com/information-architecture" target="_blank" data-w-id="ea59167f-57c0-d9d8-ba70-a989957c4fb8" class="project-thumb i4 w-inline-block"><img src="images/portfolio-thumb-4.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-4.png 500w, images/portfolio-thumb-4.png 600w" alt="" class="project-img-thumb">
+        <a href="https://myportfolio.vicaruiz.com/design/information-architecture-diagrams-crafting-intuitive-navigation-and-structure" target="_blank" data-w-id="ea59167f-57c0-d9d8-ba70-a989957c4fb8" class="project-thumb i4 w-inline-block"><img src="images/portfolio-thumb-4.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-4.png 500w, images/portfolio-thumb-4.png 600w" alt="" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">Information Architecture Diagrams <span class="sr-only">Artifacts. Opens in new tab</span></div>
           </div>
         </a>
-        <a href="https://vicaruiz.myportfolio.com/user-interface-design" target="_blank" data-w-id="4def6321-956a-9aca-3a7e-fdfdba1c3519" class="project-thumb i3 w-inline-block"><img src="images/portfolio-thumb-3_1.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-3_1-p-500.png 500w, images/portfolio-thumb-3_1.png 600w" alt="" class="project-img-thumb">
+        <a href="https://myportfolio.vicaruiz.com/design/user-interface-design-creating-intuitive-and-engaging-user-experiences" target="_blank" data-w-id="4def6321-956a-9aca-3a7e-fdfdba1c3519" class="project-thumb i3 w-inline-block"><img src="images/portfolio-thumb-3_1.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-3_1-p-500.png 500w, images/portfolio-thumb-3_1.png 600w" alt="" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">User Interface Design <span class="sr-only">Artifacts. Opens in new tab</span></div>
           </div>
         </a>
-        <a href="https://vicaruiz.myportfolio.com/interaction-design" target="_blank" data-w-id="9bd5b748-c799-0c0c-d4a2-af6d60aa07ec" class="project-thumb i5 w-inline-block"><img src="images/portfolio-thumb-5.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-5.png 500w, images/portfolio-thumb-5.png 600w" alt="" class="project-img-thumb">
+        <!-- <a href="https://vicaruiz.myportfolio.com/interaction-design" target="_blank" data-w-id="9bd5b748-c799-0c0c-d4a2-af6d60aa07ec" class="project-thumb i5 w-inline-block"><img src="images/portfolio-thumb-5.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-5.png 500w, images/portfolio-thumb-5.png 600w" alt="" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">Interaction Design<span class="sr-only">Artifacts. Opens in new tab</span></div>
           </div>
-        </a>
-        <a href="https://vicaruiz.myportfolio.com/visual-design" target="_blank" data-w-id="26cd8933-ccde-bf7b-f518-574f04d87afc" class="project-thumb i6 w-inline-block"><img src="images/portfolio-thumb-6.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-6.png 500w, images/portfolio-thumb-6.png 600w" alt="" class="project-img-thumb">
+        </a> -->
+        <!-- <a href="https://vicaruiz.myportfolio.com/visual-design" target="_blank" data-w-id="26cd8933-ccde-bf7b-f518-574f04d87afc" class="project-thumb i6 w-inline-block"><img src="images/portfolio-thumb-6.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-6.png 500w, images/portfolio-thumb-6.png 600w" alt="" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">Visual design <span class="sr-only">Artifacts. Opens in new tab</span></div>
           </div>
-        </a>
-        <a href="https://vicaruiz.myportfolio.com/data-science" target="_blank" data-w-id="399de4a8-bbfa-b805-776b-0ee919569036" class="project-thumb w-inline-block"><img src="images/portfolio-thumb-7.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-7.png 500w, images/portfolio-thumb-7.png 600w" alt="" class="project-img-thumb">
+        </a> -->
+        <!-- <a href="https://vicaruiz.myportfolio.com/data-science" target="_blank" data-w-id="399de4a8-bbfa-b805-776b-0ee919569036" class="project-thumb w-inline-block"><img src="images/portfolio-thumb-7.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-7.png 500w, images/portfolio-thumb-7.png 600w" alt="" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">Data Science <span class="sr-only">Artifacts. Opens in new tab</span></div>
           </div>
-        </a>
-        <a href="https://vicaruiz.myportfolio.com/web-development" target="_blank" data-w-id="6b45930f-2596-4d37-5fba-0cf284498316" class="project-thumb i8 w-inline-block"><img src="images/portfolio-thumb-8.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-8.png 500w, images/portfolio-thumb-8.png 600w" alt="" class="project-img-thumb">
+        </a> -->
+        <a href="https://myportfolio.vicaruiz.com/web-development/bringing-designs-to-life-with-html-css-and-javascript" target="_blank" data-w-id="6b45930f-2596-4d37-5fba-0cf284498316" class="project-thumb i8 w-inline-block"><img src="images/portfolio-thumb-8.png" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" sizes="(max-width: 479px) 68vw, (max-width: 991px) 138px, 298px" srcset="images/portfolio-thumb-8.png 500w, images/portfolio-thumb-8.png 600w" alt="" class="project-img-thumb">
           <div style="opacity:0" class="item-title">
             <div class="project-title">Web Application Development <span class="sr-only">Artifacts. Opens in new tab</span></div>
           </div>

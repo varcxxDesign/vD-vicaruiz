@@ -154,7 +154,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <main data-w-id="f44b0118-88b7-9ca9-cce2-b3a39459ab86" class="page">
     <div id="about" class="about">
       <h2 class="section-heading">About</h2>
-      <p class="about-paragraph">Vic is an experienced User Experience Specialist with a demonstrated history of working in the internet industry, Skilled in UX Research, Strategy, Design Thinking, Value Proposition Design, Flow Diagrams, Wire-framing, Prototyping, Front End Engineering, and Art Direction. A generalist within the user-centered design process, Vic delivers engaging user experiences through research, feedback, analysis, testing, and best practices.</p>
+      <p class="about-paragraph">I am a seasoned User Experience Specialist with over a decade of expertise in the internet industry. I am skilled in UX Research, Strategy, Design Thinking, Value Proposition Design, Flow Diagrams, Wireframing, Prototyping, Front-End Engineering, and Art Direction. As a versatile practitioner in the user-centered design process, I craft engaging user experiences through meticulous research, iterative feedback, comprehensive analysis, rigorous testing, and adherence to best practices.</p>
     </div>
     <div id="works" class="works">
       <h2 class="section-heading">Work</h2>
@@ -206,8 +206,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li class="skill">RESPONSIVE DESIGN</li>
               <li class="skill">PROTOTYPING</li>
             </ul>
-            <a id="CaseStudy1-link"href="http://portfolio.vicaruiz.com/vD-SGJ_Cobranded-Product_Showcase_iPhone/#/screens/191012371" target="_blank" class="link-block w-inline-block w-clearfix" aria-labelledby="CaseStudy1 CaseStudy1-link">
-              <div class="text-block">View Project in Invision</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 40px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="Opens in new tab" class="external-link">
+            <a id="CaseStudy1-link"href="https://myportfolio.vicaruiz.com/product/unified-brand-experience-for-luxury-retail-app" target="_blank" class="link-block w-inline-block w-clearfix" aria-labelledby="CaseStudy1 CaseStudy1-link">
+              <div class="text-block">View Project in Portfolio Site</div><img src="images/link-new-tab.png" sizes="(max-width: 479px) 59vw, 40px" srcset="images/link-new-tab-p-500.png 500w, images/link-new-tab-p-800.png 800w, images/link-new-tab.png 1000w" alt="Opens in new tab" class="external-link">
             </a>
           </div>
         </div>

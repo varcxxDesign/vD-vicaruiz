@@ -1,7 +1,7 @@
 // Custom Script
 $(document).ready(function(){
   
-  jQuery("#email-form-alex").submit(function(e) {
+  jQuery("#email-form").submit(function(e) {
     e.preventDefault(); 
 
     var response = grecaptcha.getResponse();

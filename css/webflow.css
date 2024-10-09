@@ -338,6 +338,7 @@ label {
   vertical-align: middle;
   background-color: #ffffff;
   border: 1px solid #cccccc;
+  border-radius: 8px;
 }
 .w-input:-moz-placeholder,
 .w-select:-moz-placeholder {

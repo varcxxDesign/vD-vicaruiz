@@ -388,7 +388,6 @@
   font-size: var(--size-large);
   text-align: center;
   background-image: linear-gradient(#909090, #909090);
-  margin-bottom: -28px;
   margin-left: 0;
   margin-right: auto;
   padding: 20px 30px;
@@ -408,7 +407,11 @@
 
 .textarea {
   min-height: 200px;
-  margin-bottom: 30px;
+  margin-bottom: var(--size-medium);
+}
+
+.g-recaptcha {
+  padding-bottom: var(--size-medium);
 }
 
 .slide-long {
@@ -485,7 +488,7 @@
 
 .cover-photo {
   background-color: #c4c4c4;
-  background-image: url('../images/1_About/VicARuiz-42-01_0-ARy2x.png'), url('../images/1_About/vLR-6143-2.jpg');
+  background-image: url('../images/1_About/VicARuiz-29-01_0-ARx.png');
   background-position: 50% 0, 50% 17%;
   background-repeat: repeat, no-repeat;
   background-size: cover, cover;
@@ -582,7 +585,7 @@
   margin-left: auto;
   margin-right: auto;
   padding: 1em 1.5em 1.5em;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: 300;
   line-height: 1.3em;
 }
@@ -959,7 +962,7 @@
 
   .cover-photo {
     z-index: -2;
-    background-image: url('../images/1_About/VicARuiz-48-01_0-ARx.png'), url('../images/1_About/vLR-6143-2.jpg');
+    background-image: url('../images/1_About/VicARuiz-29-01_0-ARy.png');
     background-position: 50% 0, 50% 17%;
     background-repeat: repeat, no-repeat;
     background-size: cover, cover;
@@ -1312,16 +1315,12 @@
     height: 100%;
   }
 
-  .navbar {
-    background-color: #000;
-  }
-
   .icon {
     font-size: 32px;
   }
 
   .cover-photo {
-    background-image: url('../images/1_About/VicARuiz-29-01_0-ARz.png'), url('../images/1_About/VicARuiz-29-01_0-ARz.png'), url('../images/1_About/VicARuiz-29-01_0-ARz.png');
+    background-image: url('../images/1_About/VicARuiz-29-01_0-ARz.png');
     background-position: 50% 0, 0 0, 50% 17%;
     background-repeat: repeat, repeat, no-repeat;
     background-size: cover, cover, cover;
@@ -1570,7 +1569,7 @@
   }
 
   .cover-photo {
-    background-image: url('../images/1_About/VicARuiz-42-01_0-ARz2x.png');
+    background-image: url('../images/1_About/VicARuiz-29-01_0-ARz.png');
     background-position: 50% 0;
     background-repeat: repeat;
     background-size: cover;

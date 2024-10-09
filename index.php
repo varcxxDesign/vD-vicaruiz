@@ -129,7 +129,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section id="portfolio" class="portfolio">
       <h2 class="section-heading">Portfolio</h2>
       <div class="portfolio-preview-container-cols">
-        <a data-w-id="e9624a35-e98c-c31d-eca5-5becadd1c1f5" href="https://myportfolio.vicaruiz.com/research/field-studies-uncovering-user-insights-in-real-world-contexts" target="_blank" class="portfolio-preview w-inline-block">
+
+      <a data-w-id="e9624a35-e98c-c31d-eca5-5becadd1c1f5" href="https://myportfolio.vicaruiz.com/research/field-studies-uncovering-user-insights-in-real-world-contexts" target="_blank" class="portfolio-preview w-inline-block">
           <div class="portfolio-preview-heading">User Research</div>
           <div class="portfolio-preview-img-container"><img src="/images/3_Portfolio/Cover-Art-Design_01.png" loading="lazy" width="Auto" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" srcset="/images/3_Portfolio/Cover-Art-Research_01-p-500.png 500w, /images/3_Portfolio/Cover-Art-Research_01-p-800.png 800w, /images/3_Portfolio/Cover-Art-Research_01.png 1080w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 50vw, (max-width: 1439px) 33vw, 480px" class="portfolio-preview-img"></div>
           <p class="portfolio-preview-text">Explore my research methodologies, where I dive into user needs and behaviors to inform design decisions. This collection features a series of detailed case studies and artifacts demonstrating my approach to user-centered research.</p>
@@ -137,18 +138,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div>Read in Portfolio Site</div><img src="images/0_UI/link-new-tab.png" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 51vw, (max-width: 1439px) 34vw, 488px" srcset="images/0_UI/link-new-tab-p-500.png 500w, images/0_UI/link-new-tab-p-800.png 800w, images/0_UI/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-11">
           </div>
         </a>
-        <a data-w-id="d33632d2-65e9-3a2d-cefd-12004ebea3de" href="https://myportfolio.vicaruiz.com/research/field-studies-uncovering-user-insights-in-real-world-contexts" target="_blank" class="portfolio-preview w-inline-block">
-          <div class="portfolio-preview-heading">Experience Design</div>
+
+      <a data-w-id="d33632d2-65e9-3a2d-cefd-12004ebea3de" href="https://myportfolio.vicaruiz.com/product/enhanced-customer-engagement-reducing-collector-calls-through-streamlined-experience" target="_blank" class="portfolio-preview w-inline-block">
+          <div class="portfolio-preview-heading">User Experience Design</div>
           <div class="portfolio-preview-img-container"><img src="images/3_Portfolio/Cover-Art-Design_01.png" loading="lazy" width="Auto" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" srcset="images/3_Portfolio/Cover-Art-Design_01-p-500.png 500w, images/3_Portfolio/Cover-Art-Design_01-p-800.png 800w, images/3_Portfolio/Cover-Art-Design_01.png 1080w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 50vw, (max-width: 1439px) 33vw, 480px" class="portfolio-preview-img"></div>
           <p class="portfolio-preview-text">This collection includes a curated selection of UX design artifacts. Each example represents a critical step in the design process, from information architecture, flow diagrams, and wireframes to high-fidelity user interface designs and interactive prototypes.</p>
           <div class="portfolio-preview-cta">
             <div>Read in Portfolio Site</div><img src="images/0_UI/link-new-tab.png" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 51vw, (max-width: 1439px) 34vw, 488px" srcset="images/0_UI/link-new-tab-p-500.png 500w, images/0_UI/link-new-tab-p-800.png 800w, images/0_UI/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-11">
           </div>
         </a>
-        <a id="w-node-_9cb5cadf-7a32-da68-e07a-c2ffe6d8d3e1-6cbf97a6" data-w-id="9cb5cadf-7a32-da68-e07a-c2ffe6d8d3e1" href="https://myportfolio.vicaruiz.com/research/field-studies-uncovering-user-insights-in-real-world-contexts" target="_blank" class="portfolio-preview w-inline-block">
+
+        <a id="w-node-_9cb5cadf-7a32-da68-e07a-c2ffe6d8d3e1-6cbf97a6" data-w-id="9cb5cadf-7a32-da68-e07a-c2ffe6d8d3e1" href="https://myportfolio.vicaruiz.com/design/user-interface-design-creating-intuitive-and-engaging-user-experiences" target="_blank" class="portfolio-preview w-inline-block">
           <div class="portfolio-preview-heading">User Interface (UI) Desgin</div>
           <div class="portfolio-preview-img-container"><img src="images/3_Portfolio/Cover-Art-Product_02.png" sizes="(max-width: 767px) 100vw, (max-width: 991px) 50vw, (max-width: 1439px) 33vw, 480px" width="Auto" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" srcset="images/3_Portfolio/Cover-Art-Product_02-p-500.png 500w, images/3_Portfolio/Cover-Art-Product_02-p-800.png 800w, images/3_Portfolio/Cover-Art-Product_02.png 1080w" class="portfolio-preview-img"></div>
-          <p class="portfolio-preview-text">ProductThis collection highlights various approaches and methodologies I&#x27;ve used for creating successful and high- impact products. Each case study delves into the challenges faced, the solutions implemented, and the results achieved, providing valuable insights for anyone involved in product development and business strategy.</p>
+          <p class="portfolio-preview-text">This collection highlights various approaches and methodologies I&#x27;ve used for creating successful and high- impact products. Each case study delves into the challenges faced, the solutions implemented, and the results achieved, providing valuable insights for anyone involved in product development and business strategy.</p>
           <div class="portfolio-preview-cta">
             <div>Read in Portfolio Site</div><img src="images/0_UI/link-new-tab.png" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 51vw, (max-width: 1439px) 34vw, 488px" srcset="images/0_UI/link-new-tab-p-500.png 500w, images/0_UI/link-new-tab-p-800.png 800w, images/0_UI/link-new-tab.png 1000w" alt="UI-Link to external URL" class="image-11">
           </div>
@@ -234,7 +237,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="form-block w-form">
 
 
-          <form id="email-form-alex" name="email-form" data-name="Email Form" action="" method="post" class="form" data-wf-page-id="5b0c51bb15edacac6cbf97a6" data-wf-element-id="43f540cf-8d95-c7a1-4564-068973da5655">
+          <form id="email-form" name="email-form" data-name="Email Form" action="" method="post" class="form" data-wf-page-id="5b0c51bb15edacac6cbf97a6" data-wf-element-id="43f540cf-8d95-c7a1-4564-068973da5655">
               <label for="name">Name:</label>
               <input class="text-field-2 w-input" maxlength="256" name="name" data-name="Name" placeholder="Your name" type="text" id="name" autocomplete="on" required>
               <label for="email">Email Address:</label>
@@ -243,19 +246,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="g-recaptcha" data-sitekey="6LexLQkaAAAAAB9urRypH8s76g9Vo_e3UQLCYKka"></div>
           <label for="g-recaptcha-response" style="display: none">Recaptcha</label>
           <input class="text-field w-input" type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
-
           <input type="Submit" value="Send nice words" data-wait="Please wait..." class="submit-btn w-button">
         </form>
-
+        <div class="w-form-verify">
+          <div>Please verify that you are human first!</div>
+        </div>      
         <div class="w-form-done">
           <div>Thank you! Your submission has been received!</div>
         </div>
-        <div class="w-form-verify">
-          <div>Please verify that you are human first!</div>
-        </div>        
-        <div class="w-form-fail">
+  
+        <!-- <div class="w-form-fail">
           <div>Oops! Something went wrong while submitting the form.</div>
-        </div>
+        </div> -->
       </div>
     </div>
     <div class="social-media-links">
@@ -267,7 +269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 <div class="footer-legal"><img src="/images/0_UI/logo_2-white.png" alt="VARCXX logo" class="logo-varcxx-classic">
-  <div class="text-block-2">All rights reserved, VARCXX, LLC 2024</div>
+  <div class="text-block-2">©2024 Vic A Ruiz. All rights reserved. Logos and trademarks are property of their respective owners and used under fair use.</div>
 </div>
 <div data-w-id="5875ad70-acc1-2eda-3bf9-41f63fb7d582" class="footer-bg-image"></div>
 </footer>
